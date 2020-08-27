@@ -1,5 +1,5 @@
 {
-  "name": "vue-env-vars-check",
+  "name": "vue-cli-plugin-env-vars-check",
   "version": "0.0.1",
   "description": "Vue CLI Service plugin for ENV variable checking",
   "main": "index.js",
