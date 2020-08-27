@@ -1,0 +1,11 @@
+{
+  "name": "vue-env-vars-check",
+  "version": "0.0.1",
+  "description": "Vue CLI Service plugin for ENV variable checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petr Blaho <petrblaho@gmail.com>",
+  "license": "MIT"
+}
